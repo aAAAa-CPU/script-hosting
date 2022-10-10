@@ -1,3 +1,5 @@
+/* By Andrea Gennaioli */
+
 // creare una funzione a freccia per gestire l'evento scroll
 window.onscroll = () => {
   updateHeader();
