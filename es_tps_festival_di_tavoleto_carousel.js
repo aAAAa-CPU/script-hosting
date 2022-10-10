@@ -1,7 +1,6 @@
 /* By Andrea Gennaioli */
 
 window.onload = () => {
-  console.log(window.location.href)
   startCarousel();
 };
 
